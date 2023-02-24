@@ -1242,11 +1242,11 @@ html::-webkit-scrollbar-thumb {
 }
 /*product*/
 .home-img img{
-    min-width: 55vh;
-    margin: 20px 1rem 0 1rem;
+    min-width: 60vh;
+    margin: 20px .5rem 0 .5rem;
 }
 /*.home-img img{
-    min-width: 45vh;
+    min-width: 50vh;
     margin-top: 10px;
     margin-left: 1rem; 
 }*/
@@ -1282,6 +1282,15 @@ html::-webkit-scrollbar-thumb {
 
 
 /*END FAQ*/
+    
+    .finish-title .finish-title-principal{
+        font-size: 1.7rem;
+    }
+    .finish-button .finish-btn{
+        font-size: 1.5rem;
+        margin: 0 2rem 0 2rem;
+        padding: 10px 15px 8px 15px;
+    }
 
 }
 }
