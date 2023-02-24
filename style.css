@@ -1294,6 +1294,10 @@ html::-webkit-scrollbar-thumb {
         margin: 0 2rem 0 2rem;
         padding: 10px 15px 8px 15px;
     }
+    
+    .footer-title .footer-title-principal{
+        font-size: .5rem;
+    }
 
 }
 }
