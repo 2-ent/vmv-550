@@ -1210,6 +1210,9 @@ html::-webkit-scrollbar-thumb {
 @media (max-width:580px) {
 
 /*CTA*/
+    #navbar{
+        top: 0rem;
+    }
 .cta {
     margin: 20px auto;
     font-size: 1rem;
